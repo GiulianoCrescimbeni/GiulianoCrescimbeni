@@ -22,8 +22,8 @@
 
 ## Personal Projects
 
-- **[FootballAPI](https://github.com/GiulianoCrescimbeni/FootballAPI)**
-  A lightweight and dynamic REST API that provides real-time football data, including team standings and player statistics, by scraping content from Italian sports websites.
+- **[FootballAPI](https://github.com/GiulianoCrescimbeni/FootballAPI)**  
+  Lightweight and dynamic REST API that provides real-time football data, including team standings and player statistics, by scraping content from Italian sports websites.
 
 - **[SimpleOS](https://github.com/GiulianoCrescimbeni/SimpleOS)**  
   Basic operating system designed as a learning project to understand low-level programming concepts
