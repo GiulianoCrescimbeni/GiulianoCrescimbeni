@@ -22,6 +22,9 @@
 
 ## Personal Projects
 
+- **[SmartPage](https://github.com/GiulianoCrescimbeni/SmartPage)**  
+  AI-powered Chrome extension to analyze and interact with webpages using ChatGPT
+  
 - **[FootballAPI](https://github.com/GiulianoCrescimbeni/FootballAPI)**  
   Lightweight and dynamic REST API that provides real-time football data, including team standings and player statistics, by scraping content from Italian sports websites.
 
