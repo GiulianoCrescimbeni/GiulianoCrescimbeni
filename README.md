@@ -6,6 +6,9 @@
 - **[Codex Naturalis – polimi‑sw‑eng‑codex‑naturalis](https://github.com/GiulianoCrescimbeni/polimi-sw-eng-codex-naturalis)**  
   Software Engineering project - Distributed software implementation of the board game *Codex Naturalis*, with GUI, CLI, networking (socket & RMI), persistence, chat, and multi-game support.
 
+- **[Indoor Localization System – polimi-wi-localization-system](https://github.com/GiulianoCrescimbeni/polimi-wi-localization-system)**  
+  Wireless Internet project - Implementation and evaluation of an indoor localization system based on Wi-Fi signal strength (RSSI)
+  
 - **[TCP Elephant Flow Detection System – polimi‑SDN‑elephant‑detection](https://github.com/GiulianoCrescimbeni/polimi-SDN-elephant-detection)**  
   Software Defined Networking Project - Detection of high-bandwidth TCP flows (elephants) in an SDN network using the RYU controller.
 
